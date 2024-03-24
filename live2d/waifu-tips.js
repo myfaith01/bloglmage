@@ -256,4 +256,4 @@ function initWidget() {
 	}
 }
 
-console.log('\n' + ' %c Live2D with Music Player' + ' %c https://github.com/crowya/live2d ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
+console.log('\n' + ' %c Live2D with Music Player' + ' %c https://github.com/bloglmage/live2d ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
