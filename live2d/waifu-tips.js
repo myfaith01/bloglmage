@@ -259,6 +259,6 @@ function initWidget() {
 console.log('\n' + ' %c Live2D with Music Player' + ' %c https://github.com/myfaith01/bloglmage/live2d ' + '\n', 'color: #fadfa3; background: #030307; padding:5px 0;', 'background: #fadfa3; padding:5px 0;');
 $("#live2d").mousedown(function(e) {
     if(e.which==3){
-        showMessage("<div style=\"text-align:center\">秘密通道<br/><a href=\"javascript:aplayer_panel_toggle();\">音乐播放器</a><br/><a href=\"https://blognas.hwb0307.com\" target=\"_blank\">主页</a><br/><a href=\"https://chevereto.hwb0307.com/\" target=\"_blank\">图床</a><br/><a href=\"https://umamirn2.hwb0307.com/share/QqhvkqI6/blognas/\" target=\"_blank\">流量</a></div>",4000,10);
+        showMessage("<div style=\"text-align:center\">秘密道<br/><a href=\"javascript:aplayer_panel_toggle();\">音乐播放器</a><br/><a href=\"https://blognas.hwb0307.com\" target=\"_blank\">主页</a><br/><a href=\"https://chevereto.hwb0307.com/\" target=\"_blank\">图床</a><br/><a href=\"https://umamirn2.hwb0307.com/share/QqhvkqI6/blognas/\" target=\"_blank\">流量</a></div>",4000,10);
     }
 });
